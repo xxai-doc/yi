@@ -7,3 +7,4 @@
 * [פראָנט-סוף קאָד](https://github.com/xxai-art/web)
 * [שפּראַך פּאַקס פֿאַר די פּלאַץ ווי אַ גאַנץ](https://github.com/xxai-art/web/tree/main/i18n)
 * [שפּראַך פּאַקס פֿאַר לאָגין מאַדזשולז](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [וועבזייַטל מאַלטיילינגוואַל דאַקיומענטיישאַן](https://github.com/xxai-doc)
